@@ -4,7 +4,7 @@
 
 ### Beginner Course: Build a Todo App using React, TypeScript, and Tailwind CSS
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styled-blue?logo=tailwindcss)
 
